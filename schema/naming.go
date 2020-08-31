@@ -7,7 +7,7 @@ import (
 	"sync"
 	"unicode/utf8"
 
-	"github.com/nhokboo/inflection"
+	"github.com/jinzhu/inflection"
 )
 
 // Namer namer interface

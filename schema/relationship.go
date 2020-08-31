@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/nhokboo/inflection"
+	"github.com/jinzhu/inflection"
 )
 
 // RelationshipType relationship type

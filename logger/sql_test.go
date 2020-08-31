@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/nhokboo/gorm/logger"
-	"github.com/nhokboo/now"
+	"github.com/jinzhu/now"
 )
 
 func TestExplainSQL(t *testing.T) {
