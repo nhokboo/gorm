@@ -5,8 +5,8 @@ import (
 	"sort"
 	"time"
 
-	"github.com/jinzhu/gorm"
-	"github.com/jinzhu/gorm/clause"
+	"github.com/nhokboo/gorm"
+	"github.com/nhokboo/gorm/clause"
 )
 
 func BeforeUpdate(db *gorm.DB) {

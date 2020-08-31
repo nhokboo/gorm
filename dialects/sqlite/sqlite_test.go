@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/jinzhu/gorm"
-	"github.com/jinzhu/gorm/dialects/sqlite"
-	"github.com/jinzhu/gorm/tests"
+	"github.com/nhokboo/gorm"
+	"github.com/nhokboo/gorm/dialects/sqlite"
+	"github.com/nhokboo/gorm/tests"
 )
 
 var (

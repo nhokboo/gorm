@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jinzhu/gorm/clause"
-	"github.com/jinzhu/gorm/logger"
-	"github.com/jinzhu/gorm/schema"
+	"github.com/nhokboo/gorm/clause"
+	"github.com/nhokboo/gorm/logger"
+	"github.com/nhokboo/gorm/schema"
 )
 
 // Config GORM config

@@ -3,7 +3,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/jinzhu/gorm"
+	"github.com/nhokboo/gorm"
 )
 
 func TestGroupBy(t *testing.T, db *gorm.DB) {

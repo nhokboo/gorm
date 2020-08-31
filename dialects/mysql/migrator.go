@@ -3,9 +3,9 @@ package mysql
 import (
 	"fmt"
 
-	"github.com/jinzhu/gorm"
-	"github.com/jinzhu/gorm/clause"
-	"github.com/jinzhu/gorm/migrator"
+	"github.com/nhokboo/gorm"
+	"github.com/nhokboo/gorm/clause"
+	"github.com/nhokboo/gorm/migrator"
 )
 
 type Migrator struct {

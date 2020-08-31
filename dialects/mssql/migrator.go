@@ -1,8 +1,8 @@
 package mssql
 
 import (
-	"github.com/jinzhu/gorm"
-	"github.com/jinzhu/gorm/migrator"
+	"github.com/nhokboo/gorm"
+	"github.com/nhokboo/gorm/migrator"
 )
 
 type Migrator struct {

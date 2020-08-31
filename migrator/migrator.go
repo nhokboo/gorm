@@ -6,9 +6,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/jinzhu/gorm"
-	"github.com/jinzhu/gorm/clause"
-	"github.com/jinzhu/gorm/schema"
+	"github.com/nhokboo/gorm"
+	"github.com/nhokboo/gorm/clause"
+	"github.com/nhokboo/gorm/schema"
 )
 
 // Migrator m struct

@@ -1,6 +1,6 @@
 package callbacks
 
-import "github.com/jinzhu/gorm"
+import "github.com/nhokboo/gorm"
 
 func BeginTransaction(db *gorm.DB) {
 }

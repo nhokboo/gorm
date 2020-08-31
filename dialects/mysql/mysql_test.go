@@ -5,9 +5,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/jinzhu/gorm"
-	"github.com/jinzhu/gorm/dialects/mysql"
-	"github.com/jinzhu/gorm/tests"
+	"github.com/nhokboo/gorm"
+	"github.com/nhokboo/gorm/dialects/mysql"
+	"github.com/nhokboo/gorm/tests"
 )
 
 var (

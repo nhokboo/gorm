@@ -4,8 +4,8 @@ import (
 	"context"
 	"database/sql"
 
-	"github.com/jinzhu/gorm/clause"
-	"github.com/jinzhu/gorm/schema"
+	"github.com/nhokboo/gorm/clause"
+	"github.com/nhokboo/gorm/schema"
 )
 
 // Dialector GORM database dialector

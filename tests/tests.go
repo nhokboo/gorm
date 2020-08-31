@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jinzhu/gorm"
+	"github.com/nhokboo/gorm"
 )
 
 func Now() *time.Time {

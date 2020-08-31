@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/jinzhu/gorm/clause"
+	"github.com/nhokboo/gorm/clause"
 )
 
 // Create insert the value into database

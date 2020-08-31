@@ -4,8 +4,8 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/jinzhu/gorm/logger"
-	"github.com/jinzhu/now"
+	"github.com/nhokboo/gorm/logger"
+	"github.com/nhokboo/now"
 )
 
 func TestExplainSQL(t *testing.T) {

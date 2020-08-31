@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jinzhu/gorm"
+	"github.com/nhokboo/gorm"
 )
 
 func TestMigrate(t *testing.T, db *gorm.DB) {

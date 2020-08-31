@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jinzhu/now"
+	"github.com/nhokboo/now"
 )
 
 type DataType string

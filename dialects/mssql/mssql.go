@@ -7,12 +7,12 @@ import (
 	"strconv"
 
 	_ "github.com/denisenkom/go-mssqldb"
-	"github.com/jinzhu/gorm"
-	"github.com/jinzhu/gorm/callbacks"
-	"github.com/jinzhu/gorm/clause"
-	"github.com/jinzhu/gorm/logger"
-	"github.com/jinzhu/gorm/migrator"
-	"github.com/jinzhu/gorm/schema"
+	"github.com/nhokboo/gorm"
+	"github.com/nhokboo/gorm/callbacks"
+	"github.com/nhokboo/gorm/clause"
+	"github.com/nhokboo/gorm/logger"
+	"github.com/nhokboo/gorm/migrator"
+	"github.com/nhokboo/gorm/schema"
 )
 
 type Dialector struct {

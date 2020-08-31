@@ -3,10 +3,10 @@ package sqlite
 import (
 	"fmt"
 
-	"github.com/jinzhu/gorm"
-	"github.com/jinzhu/gorm/clause"
-	"github.com/jinzhu/gorm/migrator"
-	"github.com/jinzhu/gorm/schema"
+	"github.com/nhokboo/gorm"
+	"github.com/nhokboo/gorm/clause"
+	"github.com/nhokboo/gorm/migrator"
+	"github.com/nhokboo/gorm/schema"
 )
 
 type Migrator struct {

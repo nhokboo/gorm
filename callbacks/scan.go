@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"reflect"
 
-	"github.com/jinzhu/gorm"
-	"github.com/jinzhu/gorm/schema"
+	"github.com/nhokboo/gorm"
+	"github.com/nhokboo/gorm/schema"
 )
 
 func Scan(rows *sql.Rows, db *gorm.DB) {

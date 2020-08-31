@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/jinzhu/gorm/logger"
+	"github.com/nhokboo/gorm/logger"
 )
 
 // ErrUnsupportedDataType unsupported data type
